@@ -33,21 +33,21 @@ public class ListActivity extends ActionBarActivity {
         listView = (ListView) findViewById(R.id.list);
         inputSearch = (EditText) findViewById(R.id.inputSearch);
         // Defined Array values to show in ListView
-        String[] values = new String[]{"Android List View",
-                "Adapter implementation",
-                "Simple List View In Android",
-                "Create List View Android",
-                "Android Example",
-                "List View Source Code",
-                "List View Array Adapter",
-                "Android Example List View",
-                "Adapter implementation",
-                "Simple List View In Android",
-                "Create List View Android",
-                "Android Example",
-                "List View Source Code",
-                "List View Array Adapter",
-                "Android Example List View"
+        String[] values = new String[]{"ListItem1",
+                "ListItem2",
+                "ListItem3",
+                "ListItem4",
+                "ListItem5",
+                "ListItem6",
+                "ListItem7",
+                "ListItem8",
+                "ListItem9",
+                "ListItem10",
+                "ListItem11",
+                "ListItem12",
+                "ListItem13",
+                "ListItem14",
+                "ListItem15"
         };
 
         // Define a new Adapter
